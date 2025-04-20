@@ -1,4 +1,6 @@
-# bouncing-DVD-logo
+# Bouncing DVD Logo
+> [!IMPORTANT]
+> Must be ran as a website instead of a standalone file!
 
 ## Extensions
 https://extensions.turbowarp.org/TheShovel/CustomStyles.js
