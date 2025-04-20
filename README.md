@@ -2,6 +2,11 @@
 > [!IMPORTANT]
 > Must be ran as a website instead of a standalone file!
 
+## Info
+Press `[O]` to open settings
+
+Press `[F]` to enter fullscreen
+
 ## Extensions
 https://extensions.turbowarp.org/TheShovel/CustomStyles.js
 https://extensions.turbowarp.org/veggiecan/browserfullscreen.js
