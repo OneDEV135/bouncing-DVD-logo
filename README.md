@@ -1,6 +1,6 @@
 # Bouncing DVD Logo
 > [!IMPORTANT]
-> Must be ran as a website instead of a standalone file!
+> Must be ran as a website instead of a local HTML document!
 
 ## Info
 Press `[O]` to open settings
